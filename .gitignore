@@ -45,3 +45,6 @@ testem.log
 Thumbs.db
 .angular/cache/15.2.7/babel-webpack/3d22289d34e4dd0f937e9f63a00a02cbc904c1652ec7ba03663d78475410359d.json
 .angular/cache/15.2.7/babel-webpack/0a35d43f50846a90793f64e9793b519b74d15befe90c5ebebae27d7870daa0c5.json
+/.angular
+/.angular/cache/15.2.7/angular-webpack/19873e3b814fe8c07605e477a88dc7a262ab7450/0.pack
+/.angular/cache/15.2.7/angular-webpack/19873e3b814fe8c07605e477a88dc7a262ab7450/index.pack
