@@ -7,7 +7,9 @@
             class="list-group-item" 
             style="cursor: pointer"
             *ngFor="let ingredient of ingredients">
-            {{ ingredient.name }} ({{ ingredient.amount }})
+            <!-- we put ngFor on this anchor tag to loop through all the ingredients-->
+            {{ ingredient.name }} ({{ ingredient.amount }})  <!--string interpolation-->
+            <!-- in console apples (10)-->
         </a>
         </ul>
     </div>
